@@ -1,0 +1,92 @@
+
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TefDevs | Elite Engineering</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Orbitron:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              'tef-black': '#0B0B0B',
+              'tef-gold': '#C9A24D',
+              'tef-gold-light': '#D4AF37',
+              'tef-silver': '#C0C0C0',
+            },
+            fontFamily: {
+              sans: ['Inter', 'sans-serif'],
+              tech: ['Orbitron', 'sans-serif'],
+            },
+            animation: {
+              'pulse-slow': 'pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+              'float': 'float 6s ease-in-out infinite',
+            },
+            keyframes: {
+              float: {
+                '0%, 100%': { transform: 'translateY(0)' },
+                '50%': { transform: 'translateY(-20px)' },
+              }
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      body {
+        background-color: #0B0B0B;
+        color: white;
+        overflow-x: hidden;
+      }
+      .gold-glow {
+        box-shadow: 0 0 20px rgba(201, 162, 77, 0.2);
+      }
+      .gold-glow-hover:hover {
+        box-shadow: 0 0 35px rgba(201, 162, 77, 0.4);
+      }
+      .glass-card {
+        background: rgba(11, 11, 11, 0.7);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+      }
+      .custom-scrollbar::-webkit-scrollbar {
+        width: 4px;
+      }
+      .custom-scrollbar::-webkit-scrollbar-track {
+        background: #0B0B0B;
+      }
+      .custom-scrollbar::-webkit-scrollbar-thumb {
+        background: #C9A24D;
+        border-radius: 10px;
+      }
+      @keyframes gradient-move {
+        0% { background-position: 0% 50%; }
+        50% { background-position: 100% 50%; }
+        100% { background-position: 0% 50%; }
+      }
+      .hero-gradient {
+        background: radial-gradient(circle at center, rgba(201, 162, 77, 0.05) 0%, rgba(11, 11, 11, 1) 70%);
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "react/": "https://esm.sh/react@^19.2.3/",
+    "react": "https://esm.sh/react@^19.2.3",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.3/",
+    "lucide-react": "https://esm.sh/lucide-react@^0.562.0"
+  }
+}
+</script>
+<link rel="stylesheet" href="/index.css">
+</head>
+  <body class="custom-scrollbar">
+    <div id="root"></div>
+  <script type="module" src="/index.tsx"></script>
+</body>
+</html>
