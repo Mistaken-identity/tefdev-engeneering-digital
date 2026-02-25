@@ -9,7 +9,7 @@ interface PricingPageProps {
 const tiers = [
   {
     name: "Starter Website",
-    price: "KES 20,000",
+    price: "KES 18,000",
     desc: "A precision-built landing page or small brochure site for emerging brands.",
     features: [
       "Custom UI Design",
