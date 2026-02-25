@@ -9,7 +9,7 @@ interface ProjectsProps {
 const projects = [
   {
     title: "Bigi Store",
-    stack: "Next.js • Tailwind • GraphQL",
+    stack: "React • Node.js • GraphQL",
     desc: "A high-performance e-commerce ecosystem designed for rapid retail scaling and high-volume transaction management.",
     img: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=800",
     link: "https://bigi.africa"
