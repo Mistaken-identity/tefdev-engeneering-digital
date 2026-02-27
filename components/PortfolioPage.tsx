@@ -14,7 +14,7 @@ const caseStudies = [
     problem: "A high-growth retail brand was limited by their previous platform's speed and design inflexibility, leading to high bounce rates and lost mobile revenue.",
     solution: "We engineered a custom digital storefront using Next.js and GraphQL, optimized for lightning-fast loads and an immersive, premium user experience.",
     result: "Sub-second response times and a documented 35% increase in mobile conversion within the first 60 days.",
-    tech: ["Next.js", "Tailwind CSS", "GraphQL", "Node.js"],
+    tech: ["React", "Tailwind CSS", "MongoDB", "Node.js"],
     img: "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&q=80&w=800",
     link: "https://bigi.africa"
   },
