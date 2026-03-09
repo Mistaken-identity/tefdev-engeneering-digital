@@ -17,7 +17,7 @@ const teamMembers = [
     specialty: "Automation & AI Integration",
     bio: "Expert in architecting robust API layers and intelligent workflows that eliminate operational friction.",
     skills: ["Python", "Node.js", "AI Pipelines"],
-    img: "/assets/images/paul.png"
+    img: "dist/assets/images/jeff.webp"
   },
   {
     name: "Dennis Kthura",
