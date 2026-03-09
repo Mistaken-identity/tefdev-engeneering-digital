@@ -9,7 +9,7 @@ const teamMembers = [
     specialty: "Full-Stack Ecosystems",
     bio: "Visionary leader with a decade of engineering experience in building high-stakes digital assets.",
     skills: ["System Design", "Cloud Architecture", "Performance Optimization"],
-    img: "/dist/assets/images/20230816_121632.jpg"
+    img: "/assets/images/teflon.png"
   },
   {
     name: "Paul Odiedo",
@@ -17,7 +17,7 @@ const teamMembers = [
     specialty: "Automation & AI Integration",
     bio: "Expert in architecting robust API layers and intelligent workflows that eliminate operational friction.",
     skills: ["Python", "Node.js", "AI Pipelines"],
-    img: "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=500"
+    img: "/dist/assets/images/paul.png"
   },
   {
     name: "Dennis Kthura",
