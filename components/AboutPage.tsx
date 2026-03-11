@@ -28,7 +28,7 @@ const teamMembers = [
     img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=500"
   },
   {
-    name: "Emmanuel Kiplagat",
+    name: "Ali Said Mwange",
     role: "Lead Frontend Engineer",
     specialty: "WebGL & Immersive Web",
     bio: "Specialist in high-performance frontend architectures and interactive 3D web experiences.",
