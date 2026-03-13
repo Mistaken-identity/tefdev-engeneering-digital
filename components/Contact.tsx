@@ -95,7 +95,7 @@ const Contact: React.FC = () => {
           <div className="mt-16 flex flex-col md:flex-row items-center justify-center gap-12">
              <div className="flex items-center gap-3">
                <Mail className="text-tef-gold w-5 h-5" />
-               <span className="text-white font-tech text-xs tracking-widest uppercase">antonyteflon10@gmail.com</span>
+               <span className="text-white font-tech text-xs tracking-widest uppercase">tefdevs@gmail.com</span>
              </div>
              <div className="flex items-center gap-3">
                <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
