@@ -32,7 +32,7 @@ const teamMembers = [
     role: "Lead Frontend Engineer",
     specialty: "WebGL & Immersive Web",
     bio: "Specialist in high-performance frontend architectures and interactive 3D web experiences.",
-    skills: ["React", "Three.js", "Shader Programming"],
+    skills: [ "Three.js", "JavaScript"],
     img: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&q=80&w=500"
   },
   {
