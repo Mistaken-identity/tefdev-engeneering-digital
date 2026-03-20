@@ -99,7 +99,7 @@ const Contact: React.FC = () => {
              </div>
              <div className="flex items-center gap-3">
                <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse"></div>
-               <span className="text-white font-tech text-xs tracking-widest uppercase">Currently Accepting 2 New Sprints</span>
+               <span className="text-white font-tech text-xs tracking-widest uppercase">Currently Accepting 4 New Sprints</span>
              </div>
           </div>
         </div>
