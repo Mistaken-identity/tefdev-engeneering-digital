@@ -4,6 +4,7 @@ import React from 'react';
 const brands = [
   { name: "Bigi Africa", sector: "Retail & E-commerce" },
   { name: "Digiduka", sector: "Financial Solutions" },
+  { name: "Kejadirect", sector: "House hunting Platfom" },
   { name: "Thorne Ventures", sector: "Venture Capital" },
   { name: "Solaris Ops", sector: "Infrastructure" },
   { name: "Nexus Security", sector: "Cyber Intelligence" },
