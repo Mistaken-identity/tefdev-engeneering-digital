@@ -76,7 +76,7 @@ const Footer: React.FC<FooterProps> = ({ setCurrentView }) => {
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={14} className="text-tef-gold" />
-                <span>antonyteflon10@gmail.com</span>
+                <span>info@tefdevs.com</span>
               </li>
               <li className="flex items-center gap-3">
                 <Globe size={14} className="text-tef-gold" />
@@ -88,7 +88,7 @@ const Footer: React.FC<FooterProps> = ({ setCurrentView }) => {
         
         <div className="flex flex-col md:flex-row justify-between items-center pt-12 border-t border-white/5 gap-8">
           <p className="text-tef-silver/20 text-[10px] font-tech tracking-[0.2em] uppercase">
-            © {new Date().getFullYear()} TefDevs Engineering Collective. All Rights Reserved.
+            © {new Date().getFullYear()} TefDevs Engineering Hub. All Rights Reserved.
           </p>
           
           <button 
