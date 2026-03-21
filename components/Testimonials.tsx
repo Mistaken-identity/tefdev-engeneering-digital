@@ -9,7 +9,7 @@ const testimonials = [
   },
   {
     quote: "The quietest yet most impactful engineering team we've ever worked with. They delivered a complex system ahead of schedule with zero friction.",
-    author: "Frank Sifuna",
+    author: "James Sifuna",
     role: "CTO, Ministry Dept of Gender & Affirmative Actions"
   },
   {
