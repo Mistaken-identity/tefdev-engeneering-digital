@@ -112,7 +112,7 @@ const ContactPage: React.FC = () => {
                  </div>
                  <div>
                     <h4 className="text-white text-[10px] font-tech tracking-widest uppercase mb-1">Global Repository</h4>
-                    <p className="text-tef-silver/60 text-xs truncate">tefdev-main-portfolio.vercel.app</p>
+                    <p className="text-tef-silver/60 text-xs truncate">tefdevs.vercel.app</p>
                  </div>
               </div>
             </div>
@@ -156,6 +156,7 @@ const ContactPage: React.FC = () => {
                   <option>E-commerce Ecosystem</option>
                   <option>Operational Automation</option>
                   <option>Long-term Asset Support</option>
+                  <option>IT Consultation</option>
                 </select>
               </div>
               <div>
