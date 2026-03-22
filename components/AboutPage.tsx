@@ -20,7 +20,7 @@ const teamMembers = [
     img: "dist/assets/images/jeff.webp"
   },
   {
-    name: "Dennis Kthura",
+    name: "Kelly Mwangangi",
     role: "UI/UX Lead",
     specialty: "Luxury Brand Interfaces",
     bio: "Pioneering high-end digital aesthetics that merge luxury brand values with seamless usability.",
