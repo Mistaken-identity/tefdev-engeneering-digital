@@ -45,6 +45,7 @@ const Testimonials: React.FC = () => {
         <div className="mt-24 pt-12 border-t border-white/5 flex flex-wrap justify-center gap-12 opacity-30 grayscale filter">
            <div className="font-tech text-xl text-white tracking-widest uppercase">Digiduka</div>
            <div className="font-tech text-xl text-white tracking-widest uppercase">Bigi Africa</div>
+          <div className="font-tech text-xl text-white tracking-widest uppercase">Kejadirect</div>
            <div className="font-tech text-xl text-white tracking-widest uppercase">Solaris</div>
            <div className="font-tech text-xl text-white tracking-widest uppercase">Vanguard</div>
         </div>
