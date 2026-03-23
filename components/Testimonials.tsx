@@ -4,7 +4,7 @@ import React from 'react';
 const testimonials = [
   {
     quote: "TefDevs didn't just build a website; they built a foundation for our entire digital expansion. Their attention to architectural detail is unmatched.",
-    author: "James Gitonga",
+    author: "Simon Gitonga",
     role: "CEO, Digiduka Solutions"
   },
   {
