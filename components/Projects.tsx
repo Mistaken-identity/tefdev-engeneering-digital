@@ -30,7 +30,7 @@ const projects = [
   },
   {
     title: "Lumina Intelligence",
-    stack: "Python • TensorFlow • FastAPI",
+    stack: "Python • TensorFlow • FastAPI AWS",
     desc: "Custom intelligent workflows and AI agents that eliminate operational friction in research environments.",
     img: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=800",
     link: null
