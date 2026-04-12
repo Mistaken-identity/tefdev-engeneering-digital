@@ -15,7 +15,7 @@ const servicesDetail = [
     title: "Web Platforms",
     desc: "Bespoke, high-performance web applications built on modern stacks that prioritize speed and security.",
     problem: "Slow, legacy websites that provide a friction-heavy user experience and low conversion.",
-    tech: ["Next.js", "React", "TypeScript", "Vercel"]
+    tech: ["Next.js", "React", "TypeScript", "Render", "Vercel"]
   },
   {
     icon: <Cpu className="w-8 h-8" />,
